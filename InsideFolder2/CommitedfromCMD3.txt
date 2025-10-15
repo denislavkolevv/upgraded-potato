@@ -1,1 +1,1 @@
-commited from CMD
+commited FROM CMD
